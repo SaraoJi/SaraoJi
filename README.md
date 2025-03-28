@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaraoJi
+- 👋 Hi, I’m @Atul_Sarao
 - 👀 I’m interested in playing Cricket & Badminton
 - 🌱 I’m currently learning VIsio COde and Databricks
 - 💞️ I’m looking to collaborate on ...
